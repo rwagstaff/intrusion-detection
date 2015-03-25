@@ -1,4 +1,4 @@
-package com.powa;
+package com.powa.detector;
 
 public interface LogAnalyzer {
 
